@@ -1,0 +1,7 @@
+Bundle-Name: RestClientMvcPortlet
+Bundle-SymbolicName: it.dontesta.labs.liferay.mvcportlet
+Bundle-Version: 1.0.0
+Export-Package: it.dontesta.labs.liferay.mvcportlet.constants
+
+Import-Package: \
+    *;resolution:=optional
